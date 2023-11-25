@@ -1,1 +1,1 @@
-# LocatorsPractice_Selenium
+# End-To-End Application Testing using Selenium-Java
