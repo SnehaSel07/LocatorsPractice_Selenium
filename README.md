@@ -1,1 +1,1 @@
-# End-To-End Application Testing using Selenium-Java
+# Selenium Webdriver practice questions
